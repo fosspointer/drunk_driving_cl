@@ -1,0 +1,4 @@
+C:/Users/Plank/dev/cpp/drunk_driving_cl/out/build/x64-debug/CMakeFiles/demo.dir
+C:/Users/Plank/dev/cpp/drunk_driving_cl/out/build/x64-debug/CMakeFiles/drunk_driving_cl.dir
+C:/Users/Plank/dev/cpp/drunk_driving_cl/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Plank/dev/cpp/drunk_driving_cl/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
