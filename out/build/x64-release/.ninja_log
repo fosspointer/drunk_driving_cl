@@ -1,6 +1,0 @@
-# ninja log v5
-13	545	6936659052459973	CMakeFiles/drunk_driving_cl.dir/src/main.cpp.obj	4284a9ac4dac9642
-5	615	6936659053152754	CMakeFiles/demo.dir/demo/src/ArgumentHandler.cpp.obj	73bf21143eab1838
-615	664	6936659053605101	demo.lib	3d932e024321a01
-664	1040	6936659057234184	drunk_driving_cl.exe	24704596b70fb4a6
-10	585	6936659052862712	CMakeFiles/demo.dir/demo/src/DrunkDriving.cpp.obj	7cb4513d8becb596
